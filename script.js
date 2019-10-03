@@ -13,7 +13,7 @@ printTimeout('hello',5);
 
 
 
-////task-2
+////task---2
 function sumAll(n) {
     if (n === 1){
         return 1;
